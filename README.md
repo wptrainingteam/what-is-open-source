@@ -112,35 +112,45 @@ WordPress is maintained and advanced by a global community of volunteer contribu
 3.  Free as in speech
 4.  Pirate software
 
-**Correct answer: 3** - Free as in speech **Which of the following best describes the nature of open-source software?**
+**Correct answer: 3** - Free as in speech 
+
+**Which of the following best describes the nature of open-source software?**
 
 1.  Resources are crowdsourced via the web and social media.
 2.  The source code is available for anyone to view, modify, and improve.
 3.  A programmer can open the compiled binary software for source code.
 4.  The sofware is available at many online and in-store sources.
 
-**Correct answer: 2** - Source code is available for anyone to view, modify and improve **Which of the following is NOT one of the four freedoms?**
+**Correct answer: 2** - Source code is available for anyone to view, modify and improve 
+
+**Which of the following is NOT one of the four freedoms?**
 
 1.  Study the source code
 2.  Redistributre the software
 3.  Run the software for any purpose
 4.  Sell the software any way possible
 
-**Correct answer: 4**- _Sell the software any way possible_ is **NOT** one of the freedoms **What is the _Bazaar_ model for software development?**
+**Correct answer: 4**- _Sell the software any way possible_ is **NOT** one of the freedoms 
+
+**What is the _Bazaar_ model for software development?**
 
 1.  Anyone may take any approach for coding.
 2.  Sellers and users may bargain software prices.
 3.  Pirated software can be sold without consequence.
 4.  Development is with public access over the Internet.
 
-**Correct answer: 4** - Development is with public access over the Internet. **Which statement best describes WordPress?**
+**Correct answer: 4** - Development is with public access over the Internet. 
+
+**Which statement best describes WordPress?**
 
 1.  WordPress was originally forked under the GPL.
 2.  WordPress is freeware that runs the World Wide Web.
 3.  WordPress is free since it's just a simple blogging system.
 4.  WordPress is not copyrighted in any manner whatsoever.
 
-**Correct answer: 1** -WordPress was originally forked under the GPL. Additional resources
+**Correct answer: 1** -WordPress was originally forked under the GPL. 
+
+### Additional resources
 
 1.  To understand more about open source software, check out [GNU’s Philosophy](https://www.gnu.org/philosophy/free-sw.html).
 2.  The WordPress Codex [GPL](https://codex.wordpress.org/GPL) section and [Understanding the GPL licensing of WordPress](http://wpandlegalstuff.com/understanding-gpl-licensing-wordpress/) are useful resources to learn about how the GPL relates to WordPress.
