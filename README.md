@@ -4,10 +4,6 @@
 
 In this lesson you will learn the meaning of the term _Open Source_ when referring to software, what the GPL software license provides, why WordPress is an open-source project, and how this is important for both the users of WordPress and the contributors to WordPress.
 
-## Prerequisite Skills
-
-This is a general topic with no prerequisites.
-
 ## Objectives
 
 After completing this lesson, students will be able to:
@@ -17,19 +13,169 @@ After completing this lesson, students will be able to:
 *   Explain the benefits of open-source software for WordPress users.
 *   Identify the ways that individuals and organizations can contribute to the WordPress project.
 
-## Screening Questions
+## Target Audience
 
-1.  Do you use software for personal or professional work?
-2.  Do you understand that software products are licensed for use?
-3.  Are you interested in learning about the WordPress project?
+Who is this lesson intended for? What interests/skills would they bring? Choose all that apply.
 
-## Teacher Notes
+* [ ] Users
+* [ ] Designers
+* [ ] Developers
+* [ ] Speakers
+* [ ] All
+
+## Experience Level
+
+How much experience would a participant need to get the most from this lesson?
+
+* [ ] Beginner
+* [ ] Intermediate
+* [ ] Advanced
+* [ ] Any
+
+## Type of Instruction
+
+Which strategies will be used for this lesson plan? Choose all that apply.
+
+* [ ] Demonstration
+* [ ] Discussion
+* [ ] Exercises
+* [ ] Feedback
+* [ ] Lecture (Presentation)
+* [ ] Show & Tell
+* [ ] Tutorial
+
+## Time Estimate (Duration)
+
+How long will it take to teach this lesson (in minutes)?
+
+____ minutes
+
+## Prerequisite Skills
+
+Participants will get the most from this lesson if they have familiarity with:
+
+* None required
+
+## Readiness Questions
+
+* Do you use software for personal or professional work?
+* Do you understand that software products are licensed for use?
+* Are you interested in learning about the WordPress project?
+
+## Materials Needed
+
+* Item 1
+* Item 2
+
+> A list of files, resources, equipment, or other materials the instructor will need to teach the lesson.
+>
+> _For example:_
+>
+> *   A local install of WordPress
+> *   The files for the TwentySixteen theme
+> *   [Slides](https://rawgit.com/wptrainingteam/repo-name/dev/slides/index.html) (included in this repo)
+
+## Notes for the Instructor
 
 *   Don't assume that WordPress users have an understanding of software licensing.
 *   It is not necessary to promote open source as superior to proprietary software, better to focus on the demonstrable benefits of open source for the WordPress project.
 *   You may print or copy the Hands-On Walk-through section to use as handout.
 
-## Hands-on Walk-through
+## Have You Thought About...?
+
+* Challenge 1
+* Challenge 2
+
+> What could present challenges to delivering this lesson? Is there anything that can be done in advance to prepare for those challenges?
+>
+> _For example:_
+>
+> *  What if there’s no internet available?
+> *  What if there’s no projector available?
+> *  What if a participant doesn’t has a WordPress site to work with?
+> *  What if there aren’t enough computers for everyone?
+> *  What if no one has the prerequisite skills? What if there are different opinions about the topic?
+
+## Lesson Overview
+
+* First do this
+* Then move on to this
+* Finish with this
+
+> The plan for the lesson. Outline form works well.
+>
+> _For example:_
+>
+> * Talk about what a theme is
+> * Demonstrate how to install and activate a theme
+> * Practice exercises to have participants find and install a theme on their own site
+
+## Exercises
+
+
+**Exercise name**
+
+Short description of what the exercise does and what skills or knowledge it reinforces.
+
+*   Short point or step of the exercise
+*   And another one
+
+> These are short or specific activities that help participants practice certain components of the lesson. They should not be fully scripted exercises, but rather something that participants could do on their own. For example, you can create an exercise based on one step of the Example Lesson.
+
+## Assessment
+
+**Free and open-source software can be best described as:**
+
+1.  Freeware
+2.  Free as in beer
+3.  Free as in speech
+4.  Pirate software
+
+**Correct answer: 3** - Free as in speech
+
+**Which of the following best describes the nature of open-source software?**
+
+1.  Resources are crowdsourced via the web and social media.
+2.  The source code is available for anyone to view, modify, and improve.
+3.  A programmer can open the compiled binary software for source code.
+4.  The sofware is available at many online and in-store sources.
+
+**Correct answer: 2** - Source code is available for anyone to view, modify and improve
+
+**Which of the following is NOT one of the four freedoms?**
+
+1.  Study the source code
+2.  Redistributre the software
+3.  Run the software for any purpose
+4.  Sell the software any way possible
+
+**Correct answer: 4**- _Sell the software any way possible_ is **NOT** one of the freedoms
+
+**What is the _Bazaar_ model for software development?**
+
+1.  Anyone may take any approach for coding.
+2.  Sellers and users may bargain software prices.
+3.  Pirated software can be sold without consequence.
+4.  Development is with public access over the Internet.
+
+**Correct answer: 4** - Development is with public access over the Internet.
+
+**Which statement best describes WordPress?**
+
+1.  WordPress was originally forked under the GPL.
+2.  WordPress is freeware that runs the World Wide Web.
+3.  WordPress is free since it's just a simple blogging system.
+4.  WordPress is not copyrighted in any manner whatsoever.
+
+**Correct answer: 1** -WordPress was originally forked under the GPL.
+
+## Additional Resources
+
+1.  To understand more about open source software, check out [GNU’s Philosophy](https://www.gnu.org/philosophy/free-sw.html).
+2.  The WordPress Codex [GPL](https://codex.wordpress.org/GPL) section and [Understanding the GPL licensing of WordPress](http://wpandlegalstuff.com/understanding-gpl-licensing-wordpress/) are useful resources to learn about how the GPL relates to WordPress.
+3.  See the WordPress [Contributing to WordPress](https://codex.wordpress.org/Contributing_to_WordPress) and [Get involved](https://make.wordpress.org/) pages to learn more about getting involved with the community of contributors.
+
+## Example Lesson
 
 ### What is the definition of Open Source?
 
@@ -37,9 +183,9 @@ After completing this lesson, students will be able to:
 
 ### What is the definition of Free Software?
 
-Free software is not simply software for which there is no charge (although the term _freeware_ is used generally to describe software without a cost). **"Free software** is software that gives you the user the freedom to share, study and modify it. We call this free software because the user is free," according to the [Free Software Foundation](http://www.fsf.org/about/what-is-free-software). 
+Free software is not simply software for which there is no charge (although the term _freeware_ is used generally to describe software without a cost). **"Free software** is software that gives you the user the freedom to share, study and modify it. We call this free software because the user is free," according to the [Free Software Foundation](http://www.fsf.org/about/what-is-free-software).
 
-> ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-info.png) "Free software is a matter of liberty, not price. To understand the concept, you should think of free as in free speech, not as in free beer." —Richard Stallman 
+> ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-info.png) "Free software is a matter of liberty, not price. To understand the concept, you should think of free as in free speech, not as in free beer." —Richard Stallman
 
 Free software refers to software that complies to “four essential freedoms” - to use, study, modify and distribute software for any purpose without legal restraint. A program is free software if the program's users have these four essential freedoms, [according to Richard Stallman](https://www.gnu.org/philosophy/free-sw.en.html), a founder of the movement:
 
@@ -57,7 +203,7 @@ Open-source software is characterized by the public accessibility of its code, w
 
 ### A (brief) history of Open Source
 
-Freely shared software was distributed in the 1950s amongst computer scientists working in academia. However, as computing systems became more complex, as software development became more costly, and as markets for computing products expanded, by the 1960s computer companies often bundled hardware products with the software required to operate them and sold them together. In the 1980s with the expansion of personal computers and corporate networks and the ever-growing prices associated with proprietary software and vendor lock-in, movements emerged in reaction to the constraints of proprietary software. In 1984 the GNU Project was launched to create a computer operating system that would be free from constraints on use of its source code (compliant to the “four freedoms”), and the General Public License was created as an alternative software license for the GNU project. 
+Freely shared software was distributed in the 1950s amongst computer scientists working in academia. However, as computing systems became more complex, as software development became more costly, and as markets for computing products expanded, by the 1960s computer companies often bundled hardware products with the software required to operate them and sold them together. In the 1980s with the expansion of personal computers and corporate networks and the ever-growing prices associated with proprietary software and vendor lock-in, movements emerged in reaction to the constraints of proprietary software. In 1984 the GNU Project was launched to create a computer operating system that would be free from constraints on use of its source code (compliant to the “four freedoms”), and the General Public License was created as an alternative software license for the GNU project.
 
 > ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-info.png) GNU is a recursive acronym that stands for: GNU's not UNIX
 
@@ -103,55 +249,6 @@ While WordPress plugins and themes must comply with the GPL license, they may st
 
 WordPress is maintained and advanced by a global community of volunteer contributors—some are employed by the WordPress sponsor company [Automattic](https://automattic.com), some work for other companies that specialize in WordPress, and many more are independent users who use WordPress for any reason whatsoever. It’s not necessary to be a software developer who contributes code to the WordPress software, though that is an important role. There are many other ways any person can contribute to the project by assisting in support forums, writing documentation, making language translations, and helping with Meetups or WordCamps. Visit [make.wordpress.org](https://make.wordpress.org/) to learn more about the various teams working on WordPress and how to get involved.
 
-## Quiz
+### Lesson Wrap Up
 
-**Free and open-source software can be best described as:**
-
-1.  Freeware
-2.  Free as in beer
-3.  Free as in speech
-4.  Pirate software
-
-**Correct answer: 3** - Free as in speech 
-
-**Which of the following best describes the nature of open-source software?**
-
-1.  Resources are crowdsourced via the web and social media.
-2.  The source code is available for anyone to view, modify, and improve.
-3.  A programmer can open the compiled binary software for source code.
-4.  The sofware is available at many online and in-store sources.
-
-**Correct answer: 2** - Source code is available for anyone to view, modify and improve 
-
-**Which of the following is NOT one of the four freedoms?**
-
-1.  Study the source code
-2.  Redistributre the software
-3.  Run the software for any purpose
-4.  Sell the software any way possible
-
-**Correct answer: 4**- _Sell the software any way possible_ is **NOT** one of the freedoms 
-
-**What is the _Bazaar_ model for software development?**
-
-1.  Anyone may take any approach for coding.
-2.  Sellers and users may bargain software prices.
-3.  Pirated software can be sold without consequence.
-4.  Development is with public access over the Internet.
-
-**Correct answer: 4** - Development is with public access over the Internet. 
-
-**Which statement best describes WordPress?**
-
-1.  WordPress was originally forked under the GPL.
-2.  WordPress is freeware that runs the World Wide Web.
-3.  WordPress is free since it's just a simple blogging system.
-4.  WordPress is not copyrighted in any manner whatsoever.
-
-**Correct answer: 1** -WordPress was originally forked under the GPL. 
-
-### Additional resources
-
-1.  To understand more about open source software, check out [GNU’s Philosophy](https://www.gnu.org/philosophy/free-sw.html).
-2.  The WordPress Codex [GPL](https://codex.wordpress.org/GPL) section and [Understanding the GPL licensing of WordPress](http://wpandlegalstuff.com/understanding-gpl-licensing-wordpress/) are useful resources to learn about how the GPL relates to WordPress.
-3.  See the WordPress [Contributing to WordPress](https://codex.wordpress.org/Contributing_to_WordPress) and [Get involved](https://make.wordpress.org/) pages to learn more about getting involved with the community of contributors.
+![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with the Exercises and Assessment outlined above.
