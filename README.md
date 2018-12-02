@@ -117,7 +117,7 @@ WordPress is maintained and advanced by a global community of volunteer contribu
 3.  Run the software for any purpose
 4.  Sell the software any way possible
 
-**Correct answer: 4**- _Sell the software any way possible_ is **NOT** one of the freedoms 
+**Correct answer: 4** - _Sell the software any way possible_ is **NOT** one of the freedoms 
 
 **What is the _Bazaar_ model for software development?**
 
