@@ -12,7 +12,7 @@ This is a general topic with no prerequisites.
 After completing this lesson, students will be able to:
 
 *   Describe and compare the concepts of open-source software, free software, and proprietary software.
-*   Define the purpose of the GPL license, and recognize how copyleft varies from copyright.
+*   Define the purpose of the GPL license.
 *   Explain the benefits of open-source software for WordPress users.
 *   Identify the ways that individuals and organizations can contribute to the WordPress project.
 
@@ -117,7 +117,7 @@ WordPress is maintained and advanced by a global community of volunteer contribu
 3.  Run the software for any purpose
 4.  Sell the software any way possible
 
-**Correct answer: 4** - _Sell the software any way possible_ is **NOT** one of the freedoms 
+**Correct answer: 4** - _Sell the software any way possible_ is **NOT** one of the freedoms
 
 **What is the _Bazaar_ model for software development?**
 
@@ -126,7 +126,7 @@ WordPress is maintained and advanced by a global community of volunteer contribu
 3.  Pirated software can be sold without consequence.
 4.  Development is with public access over the Internet.
 
-**Correct answer: 4** - Development is with public access over the Internet. 
+**Correct answer: 4** - Development is with public access over the Internet.
 
 **Which statement best describes WordPress?**
 
@@ -196,7 +196,7 @@ As an end user, developer, or business manager, why should one consider whethe
 
 ### What is the GPL?
 
-**GPL** stands short for (GNU) **General Public License**. It’s sometimes referred to as a _copyleft_ license, in contrast to copyright, since it flips the terms of the copyright on the software.Rather than restrict distribution, the GPL copyright is used to specify the ownership of the source code and the terms upon which it may be shared. The GPL was created by Richard Stallman in 1989 and is the founding license for open-source software. Its goal is to protect four fundamental freedoms that are considered the underpinnings of  free software. So, if a derivative work of GPL-licensed software is redistributed in the original or modified form, it needs to be licensed under the GPL, otherwise the licence to use the source program will terminate and it would breach the terms of usage. This makes it possible to _fork_ an open-source software project into a new project, as long as the new project is under the same license. There have been three versions of the GPL license over time. The [GPLv2](https://wordpress.org/about/gpl/) (or later) from the Free Software Foundation is the license that the WordPress software is under. You can learn more about the GNU GPL at:
+**GPL** stands short for (GNU) **General Public License**. It’s sometimes referred to as a _copyleft_ license, in contrast to copyright, since it flips the terms of the copyright on the software.Rather than restrict distribution, the GPL copyright is used to specify the ownership of the source code and the terms upon which it may be shared. The GPL was created by Richard Stallman in 1989 and is the founding license for open-source software. Its goal is to protect four fundamental freedoms that are considered the underpinnings of  free software. So, if a derivative work of GPL-licensed software is redistributed in the original or modified form, it needs to be licensed under the GPL, otherwise the license to use the source program will terminate and it would breach the terms of usage. This makes it possible to _fork_ an open-source software project into a new project, as long as the new project is under the same license. There have been three versions of the GPL license over time. The [GPLv2](https://wordpress.org/about/gpl/) (or later) from the Free Software Foundation is the license that the WordPress software is under. You can learn more about the GNU GPL at:
 
 *   [GNU GPL FAQ](https://www.gnu.org/licenses/gpl-faq.html)
 *   [Free Software Foundation](http://www.fsf.org)
