@@ -1,7 +1,7 @@
 # What is Open Source?
 ## Description
 
-In this lesson you will learn the meaning of the term _Open Source_ when referring to software, what the GPL software license provides, why WordPress is an open-source project, and how this is important for both the users of WordPress and the contributors to WordPress.
+In this lesson you will learn the meaning of the term _Open Source_ when referring to software, what the GPL software license provides, why WordPress is an open-source project and how this is important for both the users of WordPress and the contributors to WordPress.
 
 ## Prerequisite Skills
 
@@ -11,7 +11,7 @@ This is a general topic with no prerequisites.
 
 After completing this lesson, students will be able to:
 
-*   Describe and compare the concepts of open-source software, free software, and proprietary software.
+*   Describe and compare the concepts of open-source software, free software and proprietary software.
 *   Define the purpose of the GPL license.
 *   Explain the benefits of open-source software for WordPress users.
 *   Identify the ways that individuals and organizations can contribute to the WordPress project.
@@ -32,7 +32,7 @@ After completing this lesson, students will be able to:
 
 ### What is the definition of Open Source?
 
-**Open-source software** is software whose _**source code**_ is available for anyone to view, modify, and enhance. _Source code_ refers to computer instructions that are written by software developers in a programming language to manipulate the way software works. Most **proprietary software** is distributed in the form of executable files, where the source code has been compiled such that it is encrypted for computer use, without the source code being available. If the source code were available without compiling and encrypting, then it would be possible to study and modify the program—that is what open-source software provides: the ability to read and modify the code behind the software.
+**Open-source software** is software whose _**source code**_ is available for anyone to view, modify and enhance. _Source code_ refers to computer instructions that are written by software developers in a programming language to manipulate the way software works. Most **proprietary software** is distributed in the form of executable files, where the source code has been compiled such that it is encrypted for computer use, without the source code being available. If the source code were available without compiling and encrypting, then it would be possible to study and modify the program—that is what open-source software provides: the ability to read and modify the code behind the software.
 
 ### What is the definition of Free Software?
 
@@ -48,7 +48,7 @@ Free software is not simply software for which there is no charge (although the 
 Open-source software is characterized by the public accessibility of its code, while free software focuses on the capabilities for using and sharing the software. These terms overlap somewhat, but they are not interchangeable. The capabilities and conditions given to software users depends upon the particular software license involved, and there are variations on the licenses used for open source and free software. Some additional terms for describing these overlapping ideologies for software projects are:
 
 *   FOSS: Free [and] Open Source Software
-*   FLOSS Free / Libre [no cost] / Open Source Software
+*   FLOSS: Free / Libre [no cost] / Open Source Software
 
 ### A (brief) history of Open Source
 
