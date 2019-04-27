@@ -8,7 +8,7 @@ In this lesson you will learn the meaning of the term _Open Source_ when referri
 
 After completing this lesson, students will be able to:
 
-* Describe and compare the concepts of open-source software, free software, and proprietary software.
+* Describe and compare the concepts of open-source software, free software and proprietary software.
 * Define the purpose of the GPL license.
 * Explain the benefits of open-source software for WordPress users.
 * Identify the ways that individuals and organizations can contribute to the WordPress project.
@@ -76,7 +76,7 @@ This is a general topic with no prerequisites.
 
 ### What is the definition of Open Source?
 
-**Open-source software** is software whose _**source code**_ is available for anyone to view, modify, and enhance. _Source code_ refers to computer instructions that are written by software developers in a programming language to manipulate the way software works. Most **proprietary software** is distributed in the form of executable files, where the source code has been compiled such that it is encrypted for computer use, without the source code being available. If the source code were available without compiling and encrypting, then it would be possible to study and modify the program—that is what open-source software provides: the ability to read and modify the code behind the software.
+**Open-source software** is software whose _**source code**_ is available for anyone to view, modify and enhance. _Source code_ refers to computer instructions that are written by software developers in a programming language to manipulate the way software works. Most **proprietary software** is distributed in the form of executable files, where the source code has been compiled such that it is encrypted for computer use, without the source code being available. If the source code were available without compiling and encrypting, then it would be possible to study and modify the program—that is what open-source software provides: the ability to read and modify the code behind the software.
 
 ### What is the definition of Free Software?
 
@@ -96,7 +96,7 @@ Free software refers to software that complies to “four essential freedoms” 
 Open-source software is characterized by the public accessibility of its code, while free software focuses on the capabilities for using and sharing the software. These terms overlap somewhat, but they are not interchangeable. The capabilities and conditions given to software users depends upon the particular software license involved, and there are variations on the licenses used for open source and free software.  Some additional terms for describing these overlapping ideologies for software projects are:
 
 * FOSS: Free [and] Open Source Software
-* FLOSS Free / Libre [no cost] / Open Source Software
+* FLOSS: Free / Libre [no cost] / Open Source Software
 
 ### A (brief) history of Open Source
 
@@ -144,7 +144,7 @@ While WordPress plugins and themes must comply with the GPL license, they may st
 
 ### How can one contribute to WordPress?
 
-WordPress is maintained and advanced by a global community of volunteer contributors—some are employed by the WordPress sponsor company [Automattic](https://automattic.com), some work for other companies that specialize in WordPress, and many more are independent users who use WordPress for any reason whatsoever. It’s not necessary to be a software developer who contributes code to the WordPress software, though that is an important role. There are many other ways any person can contribute to the project by assisting in support forums, writing documentation, making language translations, and helping with Meetups or WordCamps. Visit [make.wordpress.org](https://make.wordpress.org/) to learn more about the various teams working on WordPress and how to get involved.
+WordPress is maintained and advanced by a global community of volunteer contributors—some are employed by the WordPress sponsor company [Automattic](https://automattic.com), some work for other companies that specialize in WordPress, and many more are independent users who use WordPress for any reason whatever. It’s not necessary to be a software developer who contributes code to the WordPress software, though that is an important role. There are many other ways any person can contribute to the project by assisting in support forums, writing documentation, making language translations, and helping with Meetups or WordCamps. Visit [make.wordpress.org](https://make.wordpress.org/) to learn more about the various teams working on WordPress and how to get involved.
 
 ## Quiz
 
