@@ -110,7 +110,7 @@ The governing principles for open-source development were outlined by Eric Raym
 * The **Bazaar** model, where code is developed over the Internet with public access, as with the Linux kernel project led by  Linus Torvalds
 
 A key takeaway from the book is the idea that "given enough eyeballs, all bugs are shallow," which he termed Linus's Law, since the public availability of the source code makes it possible for a wider group of contributors to detect and correct software problems. The term _open-source softwar_e was coined in 1998 when Netscape released the source code for its web browser (Navigator) in hopes of enhancing it by providing access to the code to more people so they could locate and fix bugs. This release garnered much attention for the open-source development process. Today, some of the world’s most popular applications are open-source software: Android, Mozilla Firefox, LibreOffice, Git and many more
-
+*
 ### Why choose Open Source?
 
 As an end user, developer, or business manager, why should one consider whether or not to use open-source software. Here are some key factors:
